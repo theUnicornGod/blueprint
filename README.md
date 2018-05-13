@@ -6,7 +6,7 @@
     - [ ] Datetime
     - [ ] Numbers
 
-RTL styles
+## RTL styles
 - [ ] Datetime RTL Styles
 - [ ] Select RTL Styles
 - [ ] Datetime RTL Styles
